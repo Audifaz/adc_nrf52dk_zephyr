@@ -1,0 +1,6 @@
+osource "/home/audifaz/ncs/nrf/Kconfig.nrf"
+
+osource "/home/audifaz/ncs/bootloader/mcuboot/zephyr/Kconfig"
+
+osource "/home/audifaz/ncs/nrfxlib/Kconfig.nrfxlib"
+

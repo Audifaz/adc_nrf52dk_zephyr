@@ -1,0 +1,2 @@
+osource "/home/audifaz/ncs/zephyr/soc/$(ARCH)/Kconfig"
+osource "/home/audifaz/ncs/zephyr/soc/$(ARCH)/*/Kconfig"

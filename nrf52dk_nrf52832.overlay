@@ -1,0 +1,11 @@
+&adc {
+	status = "okay";
+};
+
+&spi1 {
+	compatible = "nordic,nrf-spim";
+	status = "okay";
+	sck-pin = <10>;
+	mosi-pin = <11>;
+	miso-pin = <12>;
+};
